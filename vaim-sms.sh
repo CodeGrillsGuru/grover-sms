@@ -15,17 +15,17 @@
 banner() {
 
 clear
-printf "\e[1;91m    ____   ____      .__\e[0m\n"
-printf "\e[1;91m    \   \ /   /____  |__| _____      \e[0m\e[1;93m       ______ _____   ______ \e[0m\n "
-printf "\e[1;91m     \   Y   /\__  \ |  |/     \   __\e[0m\e[1;93m____  /  ___//     \ /  ___/ \e[0m\n "
-printf "\e[1;91m      \     /  / __ \|  |  Y Y  \ /__\e[0m\e[1;93m___/  \___ \|  Y Y  \\___ \  \e[0m\n "
-printf "\e[1;91m       \___/  (____  /__|__|_|  /    \e[0m\e[1;93m     /____  >__|_|  /____  > \e[0m\n "
-printf "\e[1;91m                   \/         \/     \e[0m\e[1;93m          \/      \/     \/  \e[0m\n "
+printf "\e[1;91m                      \e[0m\n"
+printf "\e[1;91m        𝔾ℝ𝕆𝕍𝔼ℝ                      \e[0m\e[1;93m            𝕊𝕄𝕊                \e[0m\n "
+printf "\e[1;91m                                     \e[0m\e[1;93m                               \e[0m\n "
+printf "\e[1;91m                                     \e[0m\e[1;93m                               \e[0m\n "
+printf "\e[1;91m                                     \e[0m\e[1;93m                               \e[0m\n "
+printf "\e[1;91m                                     \e[0m\e[1;93m                               \e[0m\n "
 
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (Vaimpier Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @vaimpier                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By gurugrover (Guru Grover TECH)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @gurugrover                                          \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/GuruGroverTECH                           \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
