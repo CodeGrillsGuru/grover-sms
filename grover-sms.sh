@@ -24,10 +24,11 @@ printf "\e[1;92m      888                                                       
 printf "\e[1;92m Y8b d88P                                                                                 \e[0m\n "
 printf "\e[1;92m  "Y88P"                                                                                  \e[0m\n "
 
+
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By GuruGroverTech (Yashhack Grover)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v10.0 coded by @GuruGroverTech                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           http://www.youtube.com/GuruGroverTECH          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By samayhksOfficial (Samayhks Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @samay                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
