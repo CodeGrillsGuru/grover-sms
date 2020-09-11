@@ -22,7 +22,7 @@ printf "\e[1;92m               └─┘┴└─└─┘ └┘ └─┘┴�
                                             
 printf "\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;41m           By GuruGroverTech (Guru Grover)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;44m]           v2.0 coded by @GuruGroverTech                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;44m]           v2.0 coded by @GuruGroverTech   \e[0m                                          \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;5m]            www.youtube.com/GuruGroverTECH         \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer:this tool is designed for Prank \n"
