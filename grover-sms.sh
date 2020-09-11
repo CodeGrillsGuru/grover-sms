@@ -1,13 +1,13 @@
 #!/bin/bash
 #==========================================================================================================================
 #========================================================================================================================== 
-#samay-sms v1.0
+#grover-sms v1.0
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
-#Youtube channel : SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)
-#Github (coded by samayhks hacker ) >>> : https://github.com/samay
-#For business : samay@gmail.com
-#vaimpier
+#Youtube channel : www.youtube.com/GuruGroverTECH
+#Github (coded by Guruhks hacker ) >>> : https://github.com/GuruGrover
+#For business : gurugrovertech@gmail.com
+#GuruGroverTech
 #==========================================================================================================================
 #==========================================================================================================================
 
