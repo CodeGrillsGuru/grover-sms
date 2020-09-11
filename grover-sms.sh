@@ -15,20 +15,20 @@
 banner() {
 
 clear
-printf "\e[1;95m   .d88b.  888d888 .d88b.  888  888  .d88b.  888d888      .d8888b  88888b.d88b.  .d8888b  \e[0m\n "
-printf "\e[1;95m  d88P"88b 888P"  d88""88b 888  888 d8P  Y8b 888P"        88K      888 "888 "88b 88K      \e[0m\n "
-printf "\e[1;95m  888  888 888    888  888 Y88  88P 88888888 888   888888 "Y8888b. 888  888  888 "Y8888b. \e[0m\n "
-printf "\e[1;95m  Y88b 888 888    Y88..88P  Y8bd8P  Y8b.     888               X88 888  888  888      X88 \e[0m\n "
-printf "\e[1;92m   "Y88888 888     "Y88P"    Y88P    "Y8888  888           88888P' 888  888  888  88888P' \e[0m\n "
-printf "\e[1;92m      888                                                                                 \e[0m\n "
-printf "\e[1;92m Y8b d88P                                                                                 \e[0m\n "
-printf "\e[1;92m  "Y88P"                                                                                  \e[0m\n "
+printf "\e[1;95m    .d88b.  888d888 .d88b.  888  888  .d88b.  888d888      .d8888b  88888b.d88b.  .d8888b  \e[0m\n "
+printf "\e[1;95m   d88P"88b 888P"  d88""88b 888  888 d8P  Y8b 888P"        88K      888 "888 "88b 88K      \e[0m\n "
+printf "\e[1;95m   888  888 888    888  888 Y88  88P 88888888 888   888888 "Y8888b. 888  888  888 "Y8888b. \e[0m\n "
+printf "\e[1;95m   Y88b 888 888    Y88..88P  Y8bd8P  Y8b.     888               X88 888  888  888      X88 \e[0m\n "
+printf "\e[1;92m    "Y88888 888     "Y88P"    Y88P    "Y8888  888           88888P' 888  888  888  88888P' \e[0m\n "
+printf "\e[1;92m       888                                                                                 \e[0m\n "
+printf "\e[1;92m  Y8b d88P                                                                                 \e[0m\n "
+printf "\e[1;92m   "Y88P"                                                                                  \e[0m\n "
 
 
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By samayhksOfficial (Samayhks Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @samay                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (Vaimpier Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @vaimpier                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
