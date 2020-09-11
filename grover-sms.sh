@@ -45,18 +45,18 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'gurugrovertech@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : http://www.youtube.com/GuruGroverTECH \n GITHUB : https://github.com/gurugrover/grover-sms.git \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
 sleep 7
 clear
 cd
-rm -rf grover-sms
-git clone https://github.com/gurugrover/grover-sms.git
-cd grover-sms
+rm -rf Vaim-sms
+git clone https://github.com/VaimpierOfficial/Vaim-sms
+cd Vaim-sms
 chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
 sleep 2
-bash grover-sms.sh 
+bash Vaim-sms.sh 
 
 }
 
@@ -101,7 +101,7 @@ clear
 apt install curl
 clear
 banner
-printf "\e[1;92m[\e[0m 1\e[1;92m ]\e[0m>>>\e[1;93m EXPLOIT THE NUMBER \e[0m\n"
+printf "\e[1;92m[\e[0m 1\e[1;92m ]\e[0m>>>\e[1;93m ATTACK ON NUMBER \e[0m\n"
 printf "\e[1;92m[\e[0m 2 \e[1;92m]\e[0m>>>\e[1;93m UPDATE SCRIPT \e[0m\n"
 printf "\e[1;92m[\e[0m 3\e[1;92m ]\e[0m>>>\e[1;93m QUIT \e[0m\n"
 printf "\n"
