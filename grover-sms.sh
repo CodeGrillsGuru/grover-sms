@@ -48,14 +48,14 @@ printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME ME
 sleep 7
 clear
 cd
-rm -rf samay
-git clone https://github.com/samay826/samay.git
+rm -rf grover-sms
+git clone https://github.com/gurugrover/grover-sms.git
 cd samay
 chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
 sleep 2
-bash samay.sh 
+bash grover-sms.sh 
 
 }
 
