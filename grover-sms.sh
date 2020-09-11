@@ -46,7 +46,7 @@ clear
 cd
 rm -rf grover-sms
 git clone https://github.com/gurugrover/grover-sms.git
-cd samay
+cd grover-sms
 chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
