@@ -25,7 +25,7 @@ printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By GuruGroverTech (
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @GuruGroverTech                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
-printf "        \e[1;91m Disclaimer: YE TOOL SE KISKI GAAND MAT MARO\n"
+printf "        \e[1;91m Disclaimer:this tool is designed for Prank \n"
 printf "         ITS FOR EDUCATIONAL PURPOSE\n"
 printf "         Attacking targets without prior mutual consent\n"
 printf "         is illegal!\n"
