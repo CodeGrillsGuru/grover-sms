@@ -23,7 +23,7 @@ printf "\e[1;91m               └─┘┴└─└─┘ └┘ └─┘┴�
 printf "\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By GuruGroverTech (Guru Grover)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @GuruGroverTech                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]            www.youtube.com/GuruGroverTECH         \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer:this tool is designed for Prank \n"
 printf "         ITS FOR EDUCATIONAL PURPOSE\n"
@@ -96,9 +96,9 @@ clear
 apt install curl
 clear
 banner
-printf "\e[1;92m[\e[0m 1\e[1;92m ]\e[0m>>>\e[1;93m SAMAY ATTACK \e[0m\n"
+printf "\e[1;92m[\e[0m 1\e[1;92m ]\e[0m>>>\e[1;93m EXPLOIT THE NUMBER \e[0m\n"
 printf "\e[1;92m[\e[0m 2 \e[1;92m]\e[0m>>>\e[1;93m UPDATE SCRIPT \e[0m\n"
-printf "\e[1;92m[\e[0m 3\e[1;92m ]\e[0m>>>\e[1;93m BHAGG \e[0m\n"
+printf "\e[1;92m[\e[0m 3\e[1;92m ]\e[0m>>>\e[1;93m QUIT \e[0m\n"
 printf "\n"
 read -p '>>> SELECT ANYONE >>> ' options
 
