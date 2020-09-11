@@ -21,8 +21,8 @@ printf "\e[1;91m               └─┘┴└─└─┘ └┘ └─┘┴�
 
                                             
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By samayhksOfficial (Samayhks Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @samay                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By GuruGroverTech (Guru Grover)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @GuruGroverTech                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: YE TOOL SE KISKI GAAND MAT MARO\n"
