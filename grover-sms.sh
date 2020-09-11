@@ -1,13 +1,13 @@
 #!/bin/bash
 #==========================================================================================================================
 #========================================================================================================================== 
-#grover-sms v1.0
+#samay-sms v1.0
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
-#Youtube channel : http://www.youtube.com/GuruGroverTECH
-#Github (coded by Grover grover ) >>> https://github.com/gurugrover/grover-sms.git
-#For business : gurugrovertech@gmail.com
-#GuruGroverTech
+#Youtube channel : SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)
+#Github (coded by samayhks hacker ) >>> : https://github.com/samay
+#For business : samay@gmail.com
+#vaimpier
 #==========================================================================================================================
 #==========================================================================================================================
 
@@ -15,23 +15,22 @@
 banner() {
 
 clear
-printf "\e[1;91m    .d88b.  888d888 .d88b.  888  888  .d88b.  888d888      .d8888b  88888b.d88b.  .d8888b  \e[0m\n "
-printf "\e[1;91m   d88P"88b 888P"  d88""88b 888  888 d8P  Y8b 888P"        88K      888 "888 "88b 88K      \e[0m\n "
-printf "\e[1;91m   888  888 888    888  888 Y88  88P 88888888 888   888888 "Y8888b. 888  888  888 "Y8888b. \e[0m\n "
-printf "\e[1;91m   Y88b 888 888    Y88..88P  Y8bd8P  Y8b.     888               X88 888  888  888      X88 \e[0m\n "
-printf "\e[1;91m    "Y88888 888     "Y88P"    Y88P    "Y8888  888           88888P' 888  888  888  88888P' \e[0m\n "
-printf "\e[1;91m       888                                                                                 \e[0m\n "
-printf "\e[1;91m  Y8b d88P                                                                                 \e[0m\n "
-printf "\e[1;91m   "Y88P"                                                                                  \e[0m\n "
+printf "\e[1;91m              ______  ________  ___ __ __  ________  __  __    \e[0m\n "
+printf "\e[1;91m             /_____/\/_______/\/__//_//_/\/_______/\/_/\/_/\   \e[0m\n "
+printf "\e[1;91m             \::::_\/\::: _  \ \::\| \| \ \::: _  \ \ \ \ \ \  \e[0m\n "
+printf "\e[1;91m              \:\/___/\::(_)  \ \:.      \ \::(_)  \ \:\_\ \ \ \e[0m\n "
+printf "\e[1;91m               \_::._\:\:: __  \ \:.\-/\  \ \:: __  \ \::::_\/ \e[0m\n "
+printf "\e[1;91m                 /____\:\:.\ \  \ \. \  \  \ \:.\ \  \ \\::\ \ \e[0m\n "
+printf "\e[1;91m                 \_____\/\__\/\__\/\__\/ \__\/\__\/\__\/ \__\/ \e[0m\n "
 
-
+                                            
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (Vaimpier Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @vaimpier                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By samayhksOfficial (Samayhks Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @samay                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           SAMAY ROASTER (TUMHRA BHAI SAMAY BHAI)          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
-printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
-printf "         testing in an authorized simulated cyberattack\n"
+printf "        \e[1;91m Disclaimer: YE TOOL SE KISKI GAAND MAT MARO\n"
+printf "         ITS FOR EDUCATIONAL PURPOSE\n"
 printf "         Attacking targets without prior mutual consent\n"
 printf "         is illegal!\n"
 printf "\n"
@@ -45,18 +44,18 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'SAMAY@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : SAMAY ROASTER \n GITHUB : samay846 \n"
 sleep 7
 clear
 cd
-rm -rf Vaim-sms
-git clone https://github.com/VaimpierOfficial/Vaim-sms
-cd Vaim-sms
+rm -rf samay
+git clone https://github.com/samay826/samay.git
+cd samay
 chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
 sleep 2
-bash Vaim-sms.sh 
+bash samay.sh 
 
 }
 
@@ -101,9 +100,9 @@ clear
 apt install curl
 clear
 banner
-printf "\e[1;92m[\e[0m 1\e[1;92m ]\e[0m>>>\e[1;93m ATTACK ON NUMBER \e[0m\n"
+printf "\e[1;92m[\e[0m 1\e[1;92m ]\e[0m>>>\e[1;93m SAMAY ATTACK \e[0m\n"
 printf "\e[1;92m[\e[0m 2 \e[1;92m]\e[0m>>>\e[1;93m UPDATE SCRIPT \e[0m\n"
-printf "\e[1;92m[\e[0m 3\e[1;92m ]\e[0m>>>\e[1;93m QUIT \e[0m\n"
+printf "\e[1;92m[\e[0m 3\e[1;92m ]\e[0m>>>\e[1;93m BHAGG \e[0m\n"
 printf "\n"
 read -p '>>> SELECT ANYONE >>> ' options
 
